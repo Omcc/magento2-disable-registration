@@ -8,7 +8,7 @@
 
 declare(strict_types=1);
 
-namespace Bodak\DisableRegistration\Plugin;
+namespace Swe\DisableRegistration\Plugin;
 
 use Magento\Customer\Model\Registration;
 use Magento\Framework\App\Config\ScopeConfigInterface;

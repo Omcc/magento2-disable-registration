@@ -1,5 +1,5 @@
 {
-  "name": "swe/magento2-b2b-disable-customer-registration",
+  "name": "swe/registration",
   "description": "This extension allows you to disable customer registration in your Magento 2.",
   "keywords": ["magento2", "b2b", "disable registration"],
   "license": [
@@ -21,7 +21,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Swe\\DisableRegistration\\": ""
+      "Swe\\Registration\\": ""
     }
   },
   "minimum-stability": "dev"
